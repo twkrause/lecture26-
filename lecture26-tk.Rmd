@@ -1,0 +1,14 @@
+---
+title: "lecture26"
+author: "Tyler Krause"
+date: "4/22/2021"
+output: pdf_document
+---
+
+```{r}
+# sample of size 100
+Y<- rnorm( 100)
+hist( Y)
+```
+
+
